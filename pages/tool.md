@@ -18,7 +18,7 @@ alias: tool
  :query [:find ?pid
          :where
          [?tid :tag/name "tool"]
-         [?pid :page/tags ?tid]
+         [?pid :page/tag ?tid]
          ]}
 #+END_QUERY
 ## [[工具]]
