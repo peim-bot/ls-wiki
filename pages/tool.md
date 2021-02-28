@@ -4,7 +4,7 @@ alias: tool
 ---
 ##
 #+BEGIN_QUERY
-{:title "All pages have a *programming* tag"
+{:title "All block about tool"
  :query [:find ?name
          :in $ ?tag
          :where
