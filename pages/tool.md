@@ -18,4 +18,3 @@ alias: tool
           (for [page result]
             [:a {:href (str "/page/" page)} (clojure.string/capitalize page)])])}
 #+END_QUERY
-## [[工具]]
