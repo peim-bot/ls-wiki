@@ -5,13 +5,13 @@ alias: tool
 ###
 #+BEGIN_QUERY
 {:title "All block about tool"
- :query [:find (pull ?b [*]), 
+ :query [:find (pull ?b [*]), ?pre
   :where
   [?t :page/name "tool"]
   [?p :page/tags ?t]
   [?p :page/name ?name]
   [?b :block/page ?p]
-  [?b :block/pre-block?]
+  [?b :block/pre-block? ?pre]
 ]
 }
 #+END_QUERY
