@@ -5,7 +5,7 @@ alias: tool
 ###
 #+BEGIN_QUERY
 {:title "All block about tool"
- :query [:find ?b
+ :query [:find (pull ?b [*])
   :where
   [?t :page/name "tool"]
   [?p :page/tags ?t]
