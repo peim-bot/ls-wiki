@@ -1,2 +1,2 @@
 ## [[工具]]
-### [[Bitwarden]]
+{{query (page-tags tool)}}
