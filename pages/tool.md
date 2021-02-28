@@ -11,7 +11,7 @@ alias: tool
   [?p :page/tags ?t]
   [?p :page/name ?name]
   [?b :block/page ?p]
-  [(missing? $ ?b :block/pre-block?)]]
+  [(missing? $ ?b :block/pre-block?)]
 ]
 }
 #+END_QUERY
