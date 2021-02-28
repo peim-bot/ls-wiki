@@ -13,12 +13,4 @@ alias: tool
          [?b :block/page ?pid]]}
 #+END_QUERY
 ##
-#+BEGIN_QUERY
-{:title "All tool block"
- :query [:find ?pid
-         :where
-         [?tid :tag/name "tool"]
-         [?pid :page/tag ?tid]
-         ]}
-#+END_QUERY
 ## [[工具]]
