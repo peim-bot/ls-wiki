@@ -8,7 +8,7 @@ alias: tool
 {:title "All tool block"
  :query [:find (pull ?b [*])
          :where
-         []
+         [? ]
          [(not= ?m "nil")]]}
 #+END_QUERY
 ## [[工具]]
