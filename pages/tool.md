@@ -8,8 +8,6 @@ alias: tool
 {:title "All tool block"
  :query [:find (pull ?b [*])
          :where
-         [?tid :tag/name "tool"]
-         [?pid :page/tags ?tid]
-         [?b :block/page ?pid]]}
+         }
 #+END_QUERY
 ## [[工具]]
