@@ -12,4 +12,10 @@ alias: tool
          [?pid :page/tags ?tid]
          [?b :block/page ?pid]]}
 #+END_QUERY
+## ]
+         [
+         [
+         :
+ :query [:
+{:title "A
 ## [[工具]]
