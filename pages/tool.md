@@ -7,7 +7,7 @@ alias: tool
 {:title "All page tags"
 :query [:find ?tag-name
         :where
-        [?tag :tag/name ?tag-name]]
+        [?tag :page/name ?tag-name]]
 :view (fn [tags]
         [:div
          (for [tag (flatten tags)]
