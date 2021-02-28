@@ -1,5 +1,4 @@
 ---
-title: tool
-alias: 工具
+title: 工具
+alias: tool
 ---
-
