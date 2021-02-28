@@ -8,7 +8,7 @@ alias: tool
  :query [:find ?name
          :in $ ?tag
          :where
-         [?t :tag/name ?tag]
+         [?t :page/name ?tag]
          [?p :page/tags ?t]
          [?p :page/name ?name]]
  :inputs ["tool"]
