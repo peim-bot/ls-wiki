@@ -5,12 +5,7 @@ alias: tool
 ##
 #+BEGIN_QUERY
 {:title "All pages have a *programming* tag"
- :query [:find ?name
-         :in $ ?tag
-         :where
-         [?t :tag/name ?tag]
-         [?p :page/tags ?t]
-         [?p :page/name ?name]]
+ :query [:find (pull ?p [*]) :where [?p :page/tags ?t] [?t :page/name ?tag] [(contains? #{"tool"} ?tag)]]
  :inputs ["tool"]
  :view (fn [result]
          [:div.flex.flex-col
