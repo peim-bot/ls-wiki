@@ -1,4 +1,4 @@
-## [[工具]]
+##
 #+BEGIN_QUERY
 {:title "All block about tool"
  :query [:find (pull ?b [*])
