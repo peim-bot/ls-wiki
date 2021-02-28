@@ -5,7 +5,7 @@ alias: tool
 ## {{query (page-tags tool)}}
 ##
 #+BEGIN_QUERY
-{:title "All tasks"
+{:title ""
  :query [:find (pull ?b [*])
          :where
          [?b :block/marker ?m]
