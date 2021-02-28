@@ -5,7 +5,7 @@ alias: tool
 ## {{query (page-tags tool)}}
 ##
 #+BEGIN_QUERY
-{:title "Tool"
+{:title "All tool block"
  :query [:find (pull ?b [*])
          :where
          [?b :block/marker ?m]
