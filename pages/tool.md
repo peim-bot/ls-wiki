@@ -2,7 +2,6 @@
 title: 工具
 alias: tool
 ---
-## {{query (page-tags tool)}}
 ##
 #+BEGIN_QUERY
 {:title "All pages have a *programming* tag"
