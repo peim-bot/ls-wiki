@@ -12,9 +12,5 @@ alias: tool
   [?p :page/name ?name]
   [?b :block/page ?p]
 ]
- :inputs ["tool"]
- :view (fn [result]
-         [:div.flex.flex-col
-          (for [page result]
-            [:a {:href (str "/page/" page)} (clojure.string/capitalize page)])])}
+}
 #+END_QUERY
