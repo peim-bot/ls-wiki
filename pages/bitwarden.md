@@ -1,5 +1,6 @@
 ---
 title: Bitwarden
+tags: tool
 ---
 
 ## [[Bitwarden]] [URL匹配规则](https://bitwarden.com/help/article/uri-match-detection/)
