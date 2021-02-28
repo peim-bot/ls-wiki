@@ -12,7 +12,7 @@
  ;; maybe your personal preferred format is Org but you'd
  ;; need to use Markdown for some projects.
  ;; :preferred-format ""
- :all-pages-public true
+ :all-pages-public true,
  ;; Git settings
  :git-pull-secs 60
  :git-push-secs 10
