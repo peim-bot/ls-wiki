@@ -4,7 +4,7 @@ tags: tool
 ---
 
 ## 自定义查询，字符串变量要全部转成小写
-## 使用 ``
+## 使用 `missing?` 匹配不存在的节点
 #+BEGIN_QUERY
 {:title "All block about tool"
  :query [:find (pull ?b [*])
