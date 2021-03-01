@@ -6,7 +6,6 @@ tags: tool
 ## 自定义查询，字符串变量要全部转成小写
 ## 使用 `missing?` 判断属性是否存在
 ```
-```
 #+BEGIN_QUERY
 {:title "All block about tool"
  :query [:find (pull ?b [*])
@@ -19,6 +18,7 @@ tags: tool
 ]
 }
 #+END_QUERY
+```
 ## 使用的技术
 - 快捷键绑定：[Mousetrap - Keyboard shortcuts in Javascript](https://craig.is/killing/mice)
 - 浏览器内存数据库：[[datascript]]
