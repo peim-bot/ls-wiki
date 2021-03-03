@@ -32,5 +32,5 @@ return (
 )
 ```
 上面的例子也可以直接改成 `const dataId = data.id`，上面的例子更适用 `dataId` 不能由 `data` 推导出的情况
-###
+### 由 create-react-app 创建的项目开发过程中有 eslint 检查，非常影响开发体验，可以用以下方式关掉
 ## #bookmark strapi 学习 https://github.com/AutumnFish/strapi_study
