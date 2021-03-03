@@ -39,4 +39,7 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 ## #bookmark strapi 学习 https://github.com/AutumnFish/strapi_study
 ## [[vscode]]
 ### toggle setting
-- 安装 Setting Toggle
+1. 安装 Settings Cycler，配置
+```json
+
+```
