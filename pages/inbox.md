@@ -1,5 +1,5 @@
 ---
-title: inbox
+title: Inbox
 ---
 
 ## [[Babel]]
