@@ -40,7 +40,7 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 ## [[vscode]]
 ### toggle setting
 1. 安装 Settings Cycler，配置
-```JSON
+```json
 {
     "settings.cycle": [
         {
