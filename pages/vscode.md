@@ -3,6 +3,9 @@ title: vscode
 tags: tool
 ---
 ## toggle setting
+:PROPERTIES:
+:heading: true
+:END:
 1. 安装 Settings Cycler，配置
 ```json
 {
