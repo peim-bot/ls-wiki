@@ -37,3 +37,4 @@ return (
 cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 ```
 ## #bookmark strapi 学习 https://github.com/AutumnFish/strapi_study
+## [[vscode]]
