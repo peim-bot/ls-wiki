@@ -41,7 +41,8 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 ### toggle setting
 1. 安装 Settings Cycler，配置
 ```json
-  "settings.cycle": [
+
+ "settings.cycle": [
     {
       "id": "toggleFormatOnSave",
       "overrideWorkspaceSettings": true,
