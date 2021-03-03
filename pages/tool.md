@@ -12,6 +12,7 @@ alias: tool
          [?p :page/name ?name]
          [?b :block/page ?p]
          [(missing? $ ?b :block/pre-block?)]]
- :collapsed? true        
+ :collapsed? true
 }
 #+END_QUERY
+###
