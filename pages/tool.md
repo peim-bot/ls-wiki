@@ -15,4 +15,3 @@ alias: tool
  :collapsed? true
 }
 #+END_QUERY
-###
