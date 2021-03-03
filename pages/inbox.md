@@ -32,4 +32,5 @@ return (
 )
 ```
 上面的例子也可以直接改成 `const dataId = data.id`，上面的例子更适用 `dataId` 不能由 `data` 推导出的情况
+###
 ## #bookmark strapi 学习 https://github.com/AutumnFish/strapi_study
