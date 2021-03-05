@@ -61,7 +61,7 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 {
     "command": "editor.toggleFold",
     "key": "z z",
-    "when": "neovim.mode != insert",
-  }
+    "when": "neovim.mode != insert"
+}
 ```
 ###
