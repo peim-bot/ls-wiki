@@ -48,7 +48,7 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
   -webkit-box-orient: vertical;
 }
 ```
-###
+### 文本中间省略号
 ## [[Vim]]
 ### #bookmark [Vim宏录制与重复操作-Vim入门教程(28) | vim教程网](https://vimjc.com/vim-recording.html)
 ### 使用系统剪贴板
