@@ -54,3 +54,5 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 `set clipboard=unnamed`
 ### Neovim 配置文件地址
 `vim ~/.config/nvim/init.vim`
+## [[vscode]]
+###
