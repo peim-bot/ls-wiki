@@ -63,4 +63,4 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
     "key": "z z",
     "when": "neovim.mode != insert",
   }
-``
+```
