@@ -55,4 +55,5 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 ### Neovim 配置文件地址
 `vim ~/.config/nvim/init.vim`
 ## [[vscode]]
-###
+### 快捷键配置多个按键
+直接使用空格隔开，比如`z z`
