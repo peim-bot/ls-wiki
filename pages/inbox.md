@@ -57,5 +57,10 @@ cross-env DISABLE_ESLINT_PLUGIN=true yarn start
 ## [[vscode]]
 ### 快捷键配置多个按键
 直接使用空格隔开，比如`z z`快捷键
-```
+```JSON
+  {
+    "command": "editor.toggleFold",
+    "key": "z z",
+    "when": "neovim.mode != insert",
+  }
 ```
