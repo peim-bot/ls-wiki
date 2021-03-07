@@ -2,18 +2,6 @@
 title: Inbox
 ---
 
-## [[Babel]]
-### babel-plugin-bulk-import 插件
-用于批量 import，语法类似[[glob]]
-```
-import * as Features from './features/*.js'
-/* Features would be
-    {
-        featureA: {feature: 'A'}, // featureA.js
-        featureB: {feature: 'B'} // featureB.js
-    }
-*/
-```
 ## [[React]]
 ### 从后台拉取数据，通过 Props 传给某个组件，需要一个和数据配套的 key 赋给组件，数据变化之后 key 跟着变。不能 key 先变再改变数据
 ```
