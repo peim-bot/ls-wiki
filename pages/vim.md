@@ -1,5 +1,6 @@
 ---
 title: Vim
+tags: tool
 ---
 
 ## #bookmark [Vim宏录制与重复操作-Vim入门教程(28) | vim教程网](https://vimjc.com/vim-recording.html)
