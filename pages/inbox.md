@@ -10,3 +10,5 @@ title: Inbox
 ## [[Go]]
 ### 使用 go mod
 先在项目根目录`go mod init projectName`，生成 go.mod 文件，之后 `go get module`会自动更新到 go.mod
+## [[Mac]]
+###
