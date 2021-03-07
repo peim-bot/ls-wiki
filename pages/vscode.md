@@ -2,7 +2,15 @@
 title: vscode
 tags: tool
 ---
-###
+### 快捷键配置多个按键
+直接使用空格隔开，比如`z z`快捷键
+```json
+{
+    "command": "editor.toggleFold",
+    "key": "z z",
+    "when": "neovim.mode != insert"
+}
+```
 ## toggle settings
 - 安装 Settings Cycler，配置
 ```json
