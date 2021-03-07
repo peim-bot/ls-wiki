@@ -2,7 +2,7 @@
 title: vscode
 tags: tool
 ---
-## toggle setting
+### toggle setting
 1. 安装 Settings Cycler，配置
 ```json
 {
