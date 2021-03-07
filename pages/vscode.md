@@ -3,24 +3,14 @@ title: vscode
 tags: tools
 ---
 ## toggle setting
-1. 安装 Settings Cy
-{
-"settings.cycle": [
-{
-"id": "toggleFormatOnSave",
-"overrideWorkspaceSettings": true,
-"values": [
-{
-"editor.formatOnSave": true
-},
-{
-"editor.formatOnSave": false
-}
-]
-}
-]
-}
-lues": [
+1. 安装 Settings Cycler，配置
+  ```json
+  {
+      "settings.cycle": [
+          {
+              "id": "toggleFormatOnSave",
+              "overrideWorkspaceSettings": true,
+              "values": [
                   {
                       "editor.formatOnSave": true
                   },
