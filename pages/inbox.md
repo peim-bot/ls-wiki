@@ -37,4 +37,4 @@ $ defaults delete -g ApplePressAndHoldEnabled                                   
 curl -F 'file=@photo.png' https://google.com/profile
 ```
 ## [[GitHub]]
-### GitHub Actions 部署到
+### GitHub Actions 部署到服务器：
