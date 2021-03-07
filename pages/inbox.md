@@ -3,10 +3,6 @@ title: Inbox
 ---
 
 ## [[React]]
-### 由 create-react-app 创建的项目开发过程中有 [[eslint]] 检查，非常影响开发体验，可以用以下方式关掉
-```shell
-cross-env DISABLE_ESLINT_PLUGIN=true yarn start
-```
 ## #bookmark [Windows 10 自带输入法安装小鹤双拼](https://iwenson.com/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC.reg)
 ## [[CSS]]
 ### 多行省略号
