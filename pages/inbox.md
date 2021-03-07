@@ -4,7 +4,10 @@ title: Inbox
 
 ## #bookmark [Windows 10 自带输入法安装小鹤双拼](https://iwenson.com/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC.reg)
 ## [[CSS]]
-### 文本中间省略号
+### LATER 文本中间省略号 
+:PROPERTIES:
+:later: 1615123399645
+:END:
 ## [[Vim]]
 ### #bookmark [Vim宏录制与重复操作-Vim入门教程(28) | vim教程网](https://vimjc.com/vim-recording.html)
 ### 使用系统剪贴板
