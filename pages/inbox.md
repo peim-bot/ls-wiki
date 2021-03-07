@@ -18,4 +18,4 @@ $ defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool fal
 $ defaults write com.visualstudio.code.oss ApplePressAndHoldEnabled -bool false    # For VS Codium
 $ defaults delete -g ApplePressAndHoldEnabled                                      # If necessary, reset global default
 ```
-##
+## [[cURL]]
