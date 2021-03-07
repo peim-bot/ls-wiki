@@ -2,7 +2,8 @@
 title: vscode
 tags: tool
 ---
-## - 安装 Settings Cycler，配置
+## toggle settings
+- 安装 Settings Cycler，配置
   ```json
   {
       "settings.cycle": [
