@@ -1,4 +1,4 @@
 ## [[前端]]
 ## [[bookmark]]
-### [[工具]]
+## [[工具]]
 {{query (page-tags "tool")}}
