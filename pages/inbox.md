@@ -20,5 +20,5 @@ $ defaults delete -g ApplePressAndHoldEnabled                                   
 ```
 ## [[cURL]]
 ### 文件上传
-```shell
 ```
+curl -F 'file=@photo.png' https://google.com/profile
