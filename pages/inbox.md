@@ -36,3 +36,5 @@ $ defaults delete -g ApplePressAndHoldEnabled                                   
 ```shell
 curl -F 'file=@photo.png' https://google.com/profile
 ```
+## [[GitHub]]
+### GitHub Actions 部署到
