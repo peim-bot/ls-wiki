@@ -4,7 +4,6 @@ tags: tool
 ---
 ## toggle settings
 - 安装 Settings Cycler，配置
-  1. 安装 Settings Cycler，配置
 ```json
 {
     "settings.cycle": [
