@@ -19,3 +19,4 @@ $ defaults write com.visualstudio.code.oss ApplePressAndHoldEnabled -bool false 
 $ defaults delete -g ApplePressAndHoldEnabled                                      # If necessary, reset global default
 ```
 ## [[cURL]]
+###
