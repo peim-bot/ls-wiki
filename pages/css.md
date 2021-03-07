@@ -1,6 +1,8 @@
 ---
 title: CSS
 tags: 前端
+published: true
+permalink: css
 ---
 
 ## 多行省略号
