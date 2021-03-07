@@ -2,7 +2,7 @@
 title: CSS
 ---
 
-## ## 多行省略号
+## 多行省略号
 ```CSS
 .text {
   overflow: hidden;
