@@ -7,4 +7,4 @@ title: Inbox
 :PROPERTIES:
 :later: 1615123399645
 :END:
-## [Go]
+## [[Go]]
