@@ -1,6 +1,6 @@
 ---
 title: vscode
-tags: tool
+tags: tools
 ---
 ## toggle setting
 1. 安装 Settings Cy
