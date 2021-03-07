@@ -1,5 +1,6 @@
 ---
 title: Babel
+tags: 前端
 ---
 
 ## babel-plugin-bulk-import 插件
