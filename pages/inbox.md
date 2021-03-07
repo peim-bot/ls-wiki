@@ -13,6 +13,12 @@ title: Inbox
 ### 使用`.env`文件配置环境变量 `go get github.com/joho/godotenv`
 ```go
 
+unc init() {
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env file")
+	}
+}
 ```
 ## [[Mac]]
 ### vscode 中允许重复按键 #Vim
