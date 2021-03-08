@@ -38,4 +38,8 @@ curl -F 'file=@photo.png' https://google.com/profile
 ```
 ## [[GitHub]]
 ### [[GitHub Action]] 部署到服务器：[easingthemes/ssh-deploy: GitHub Action for deploying code via rsync over ssh](https://github.com/easingthemes/ssh-deploy
-##
+## [[FFmpeg]]
+### 添加和去除黑边
+```shell
+
+```
