@@ -2,6 +2,9 @@
 title: Inbox
 ---
 
+## [[Vim]]
+### css module styles marco
+`0f"da"i{styles[pa]}`
 ## [[CSS]]
 ### LATER 文本中间省略号
 :PROPERTIES:
