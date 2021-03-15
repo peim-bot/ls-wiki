@@ -47,3 +47,4 @@ curl -F 'file=@photo.png' https://google.com/profile
 ffmpeg -i 2160.mp4 -vf crop=1920:1080:120:0 1920.mp4 # 去除黑边
 ffmpeg -i 1920.mp4 -vf pad=2160:1080:120:0:black  2160-2.mp4 #添加黑边
 ```
+## [[Javascript]]
