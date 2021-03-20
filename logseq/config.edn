@@ -13,7 +13,6 @@
  ;; need to use Markdown for some projects.
  ;; :preferred-format ""
  :all-pages-public true,
- :shortcuts {:editor/new-block "alt+enter"},
  ;; Git settings
  :git-pull-secs 60
  :git-push-secs 10
