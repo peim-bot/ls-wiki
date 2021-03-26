@@ -52,7 +52,17 @@ ffmpeg -i 1920.mp4 -vf pad=2160:1080:120:0:black  2160-2.mp4 #添加黑边
 前者包办端口号，后者不包含
 ### `try catch` async 函数，函数调用前面必须要用 await
 ```javascript
+async function foo() {
+  throw Error('foo');
+}
 
+async function main() {
+  try {
+    await foo(); // 不能少了 await
+  } catch (error) {
+    console.log(error);
+  }
+}
  ```
 ## [[React]]
 ### `useEffect` 和异步函数
