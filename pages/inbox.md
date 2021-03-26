@@ -50,7 +50,10 @@ ffmpeg -i 1920.mp4 -vf pad=2160:1080:120:0:black  2160-2.mp4 #添加黑边
 ## [[JavaScript]]
 ### `URL.host` vs `URL.hostname`
 前者包办端口号，后者不包含
-### `try catch` async 函数
+### `try catch` async 函数，函数调用前面必须要用 await
+```javascript
+
+ ```
 ## [[React]]
 ### `useEffect` 和异步函数
 https://juliangaramendy.dev/blog/use-promise-subscription
