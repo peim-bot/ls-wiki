@@ -68,4 +68,4 @@ async function main() {
 ### `useEffect` 和异步函数
 https://juliangaramendy.dev/blog/use-promise-subscription
 ## [[Linux]]
-## /etc/sysctl.conf 立即生效
+### /etc/sysctl.conf 立即生效 `sudo sysctl -p`
