@@ -67,3 +67,5 @@ async function main() {
 ## [[React]]
 ### `useEffect` 和异步函数
 https://juliangaramendy.dev/blog/use-promise-subscription
+## [[Linux]]
+## /etc/sysctl.conf 立即生效
