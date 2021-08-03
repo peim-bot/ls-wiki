@@ -1,5 +1,6 @@
-	- [[前端]]
-	   {{query (page-tags "前端")}}
+- [[前端]]
+  collapsed:: true
+   {{query (page-tags "前端")}}
 - [[bookmark]]
 - [[工具]]
   {{query (page-tags "tool")}}
